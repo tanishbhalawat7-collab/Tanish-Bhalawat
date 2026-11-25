@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Vibe – AI Smart Expiry Tracker",
+  "description": "Production-oriented AI smart expiry tracker with ESP32-CAM hardware integration, real barcode decoding, packaging OCR date extraction, and SQLite persistence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
